@@ -9,7 +9,7 @@ Create a new class with the following:
 	Create a property that returns a string.
 	Create a method to separate a list of 20 numbers between odds and even
 	Create a method to print numbers in the following pattern - from 0 to 20*/
-package com.java.UnosquareJava.Ejercicio2.app.Ejercicio2;
+package com.java.UnosquareJava.app.Ejercicio2;
 import java.util.Random;
 import java.util.ArrayList;
 import java.util.*;
