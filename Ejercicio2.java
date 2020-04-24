@@ -15,10 +15,10 @@ import java.util.ArrayList;
 import java.util.*;
 
 public class Ejercicio2{
-	private int numaux;
-	private int len;
-	private int limit;
-	private int rdmnumber;
+	private int numaux = 0;
+	private int len= 0;
+	private int limit= 0;
+	private int rdmnumber= 0;
 	
 
 	Ejercicio2(){
